@@ -15,6 +15,6 @@ Steps to run
      You can use MousePos.exe downloaded from http://www.adminsehow.com/wp-content/uploads/2012/03/MousePos.exe to find your 
      captured region coordinates.
      
-     See my ppt file for output result for capturing stock price in my web browser 
+     See my ocr result.PNG for output result for capturing stock price in my web browser 
      
      
