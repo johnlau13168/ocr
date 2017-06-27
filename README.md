@@ -1,5 +1,6 @@
 # ocr
 Simple python ocr code to be executed with python 2.7.13 (Not working for python 3.x !) in windows
+
 Steps to run 
 1. Download runocr.py script to your folder such as c:\pyscript  
 2. Open command prompt and in your python install folder and enter following with your screen region needed to be captured for recognition  
