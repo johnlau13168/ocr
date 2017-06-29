@@ -8,7 +8,7 @@ Steps to run
     (i.e. upper left and lower right corrdinates x1, y1, x2, y2) 
      pyhon.exe c:\pyscript\runocr.py x1 y1 x2 y2
      
-     e.g    C:\Python>  pyhon.exe c:\pyscript\runocr.py 20 470 170 520
+     e.g    C:\Python>  python.exe c:\pyscript\runocr.py 20 470 170 520
      
      
      This will capture a screen region (with position left corner position 20 470 and lower right corner 170 520) on your screen and 
